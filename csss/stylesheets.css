@@ -1,0 +1,28 @@
+.one{
+    background-image: url(../img/code.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.topnav {
+    background-color: rgb(174, 185, 185);
+    overflow: hidden;
+    float: right;
+
+  }
+  .topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  .topnav a:hover {
+    background-color: rgb(151, 39, 39);
+    color: black;
+    }
+    .topnav a.active {
+        background-color:whitesmoke;
+        color:black;
+
+        }
