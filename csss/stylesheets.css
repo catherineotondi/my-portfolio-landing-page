@@ -34,3 +34,28 @@
   font-weight: 300;
  
 }
+.two{
+  background-image: url(/home/katerina/Documents/Moringa-School-Projects/IP-PROJECT/img/kate.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.check {
+  font-size: 150%;
+  font: bolder;
+  color: rgb(5, 7, 7);
+  padding: 5px;
+  }
+ 
+  .italian {
+    font-style: italic;
+  }
+ .over{
+   font-size: larger;
+   font-style:bold;
+ }
+ h1{
+   text-align: center;
+ }
+
+
