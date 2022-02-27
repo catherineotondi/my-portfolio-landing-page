@@ -57,5 +57,13 @@
  h1{
    text-align: center;
  }
-
+ .paro{
+ text-align: left;
+ font-size: medium;
+ margin-left: 400px;
+ margin-right: 400px;
+}
+h1{
+text-align: center;
+}
 
