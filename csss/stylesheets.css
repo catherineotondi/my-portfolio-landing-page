@@ -57,6 +57,9 @@
  h1{
    text-align: center;
  }
+ h2{
+  text-align: center;
+}
  .paro{
  text-align: left;
  font-size: medium;
@@ -87,7 +90,12 @@ legend{
   fieldset{
     width: 40%
     min-width 420px;
-    margin: auto
+    margin: auto;
   }
-};
+}
+.pet{
+font-size: medium;
+color: rgb(255, 38, 0);
+text-align: center;
+}
   
